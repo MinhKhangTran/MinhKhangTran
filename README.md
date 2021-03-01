@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 #### About Me
 
 - 👨‍💼 I am a mechanical engineer from Germany
-- 🏋🏻‍♂️ In my spare time i lift some heavy weights
+- 🏋🏻‍♂️ In my spare time I lift some heavy weights
 - 📚 Since 2018 I am learning Korean
 - 👨‍💻 Besides all my hobbies I am learning Web development
 
