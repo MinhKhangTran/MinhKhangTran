@@ -32,3 +32,4 @@ Here are some ideas to get you started:
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhangTran&layout=compact&theme=cobalt" />
 </a>
 
+[![MinhKhangTran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinhKhangTran)](https://github.com/MinhKhangTran)
