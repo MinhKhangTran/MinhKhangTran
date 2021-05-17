@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 #### What I am learning recently
 
-- Currently I'm learning more about the MERN Stack
+- Currently I'm learning more about interesting Full Stack technologies
+- I tested spaced repetition to increase my korean vocabulary
 
-#### I am working with:
+#### Technologies I use:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-
+<!--
 
 <a href="https://github.com/MinhKhangTran">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MinhKhangTran&show_icons=true&theme=cobalt" />
@@ -33,3 +34,5 @@ Here are some ideas to get you started:
 </a>
 
 [![MinhKhangTran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MinhKhangTran)](https://github.com/MinhKhangTran)
+
+-->
